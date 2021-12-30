@@ -5,4 +5,4 @@ This uses OpenCV templates to recognize and process images, pywin32 to take pict
 
 ## Demonstration video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZdYtmUzF-p8/0.jpg)](https://www.youtube.com/watch?v=ZdYtmUzF-p8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/za8hO3EMCzk/0.jpg)](https://www.youtube.com/watch?v=za8hO3EMCzk)
